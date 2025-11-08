@@ -4,9 +4,15 @@ Hi 👋 My name is Hussein El Mazbouh
 Full Stack developer
 --------------------
 
-🎓 CS graduate from Lebanese University | 💻 Web Dev: HTML, CSS, PHP, JS, ASP.NET | 📚 Built bookstore, movie site & travel app | 🌱 Open to work
+Software Engineer passionate about coding and problem-solving.
 
-* 🌍  I'm based in lebanon
+Skilled in C, Java, PHP, ASP.NET, and web development.
+
+Exploring AI, multithreading, and innovative tech projects.
+
+Sharing projects and learning journey on GitHub.
+
+* 🌍  I'm based in Lebanon
 * 🖥️  See my portfolio at [https://husseinelmazbouh.github.io/portfolio1/](http://husseinelmazbouh.github.io/portfolio1/)
 * ✉️  You can contact me at [hussein.el.mazbouh3@gmail.com](mailto:hussein.el.mazbouh3@gmail.com)
 * 🧠  I'm currently learning react ...
