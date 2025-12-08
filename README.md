@@ -46,10 +46,11 @@ I am a **Computer Science Graduate** and **Full-Stack Engineer** based in **Leba
 | Project | Tech Stack | Description | Repository |
 | :--- | :--- | :--- | :---: |
 | **Smart Medicine Reminder** | Next.js, React | User-friendly app improving medication adherence with robust input validation. | [View Code](https://github.com/husseinelmazbouh/smart-medicine-reminder) |
-| **AI Code Reviewer** | PHP, MySQL, AI API | A pair-programming tool that integrates AI to analyze code and provide instant feedback. | [View Code](https://github.com/husseinelmazbouh/ai-code-reviewer) |
-| **Solitaire Dashboard** | PHP, MySQL, JS | Dynamic game dashboard with leaderboard logic, randomized scoring, and user tracking. | [View Code](https://github.com/husseinelmazbouh/solitaire-dashboard) |
-| **Bookstore Web App** | PHP, MySQL | Library management system featuring full CRUD operations and secure form validation. | [View Code](https://github.com/husseinelmazbouh/bookstore-web-app) |
-| **Travel Mate Design** | System Design | Full software lifecycle study project, from requirements to architectural design. | [View Code](https://github.com/husseinelmazbouh/travel-mate) |
+| **Chatting App** | PHP, MySQL, AI API , HTML, CSS, JS | Real-time messaging with AI auto-responses and unread message indicators. | [View Code](https://github.com/husseinelmazbouh/Chatting_app) |
+| **AI Code Reviewer** | PHP, MySQL, AI API , HTML, CSS, JS| A pair-programming tool that integrates AI to analyze code and provide instant feedback. | [View Code](https://github.com/husseinelmazbouh/ai_code_reviewer) |
+| **Solitaire Dashboard** | PHP, MySQL, HTML, CSS, JS| Dynamic game dashboard with leaderboard logic, randomized scoring, and user tracking. | [View Code](https://github.com/husseinelmazbouh/sef_solitaire_1) |
+| **Bookstore Web App** | PHP, MySQL ,HTML, CSS, JS | Library management system featuring full CRUD operations and secure form validation. | [View Code](https://github.com/husseinelmazbouh/bookstore-php) |
+| **Travel Mate Design** | System Design | Full software lifecycle study project, from requirements to architectural design. | [View Code](https://github.com/husseinelmazbouh/TravelMate) |
 | **Portfolio Website** | HTML, CSS, JS | My personal portfolio showcasing my journey and projects. | [View Code](https://github.com/husseinelmazbouh/portfolio1) |
 
 ---
