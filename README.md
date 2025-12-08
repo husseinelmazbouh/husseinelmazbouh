@@ -1,37 +1,115 @@
-Hi 👋 My name is Hussein El Mazbouh
-===================================
+<h1 align="center">Hi 👋, I'm Hussein El Mazbouh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+everyone;Mates+,+This+is+my+profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;Computer+Science+Graduate;Passionate+Problem+Solver&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000" alt="Typing Animation">
 </p>
 
-Software Engineer
---------------------
+<br>
 
-Software Engineer passionate about coding and problem-solving.
+### 👨‍💻 About Me
 
-Skilled in C, Java, PHP, ASP.NET, and web development.
+I am a **Computer Science Graduate** and **Full-Stack Engineer** based in **Lebanon**. I focus on delivering high-quality, scalable software with a strong commitment to **SOLID principles** and **System Design**.
 
-Exploring AI, multithreading, and innovative tech projects.
+* 🔭 I recently worked as a **Software Developer Intern at TechTalks**, building a Smart Medicine Reminder app.
+* 💻 My current stack focuses on **Next.js**, **React**, **PHP**, and **SQL**.
+* 🌱 I’m currently deepening my knowledge in **AI integration** and **Advanced System Architecture**.
+* 👯 I am open to collaborating on open-source web development projects.
 
-Sharing projects and learning journey on GitHub.
+---
 
-* 🌍  I'm based in Lebanon
-* 🖥️  See my portfolio at [https://husseinelmazbouh.github.io/portfolio1/](http://husseinelmazbouh.github.io/portfolio1/)
-* ✉️  You can contact me at [hussein.el.mazbouh3@gmail.com](mailto:hussein.el.mazbouh3@gmail.com)
-* 🧠  I'm currently learning react ...
+### 🛠️ Languages & Tools
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" width="40" height="40" />
+  </a>
+  
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="NextJs" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind" width="40" height="40" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="40" height="40" />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="40" height="40" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" width="40" height="40" />
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="40" height="40" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="40" height="40" />
+  </a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/husseinelmazbouh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/hussein-el-mazbouh-967970241" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+### 📂 Featured Projects
 
-<b>My GitHub Stats</b>
+| Project | Tech Stack | Description | Repository |
+| :--- | :--- | :--- | :---: |
+| **Smart Medicine Reminder** | Next.js, React | User-friendly app improving medication adherence with robust input validation. | [View Code](https://github.com/husseinelmazbouh/smart-medicine-reminder) |
+| **AI Code Reviewer** | PHP, MySQL, AI API | A pair-programming tool that integrates AI to analyze code and provide instant feedback. | [View Code](https://github.com/husseinelmazbouh/ai-code-reviewer) |
+| **Solitaire Dashboard** | PHP, MySQL, JS | Dynamic game dashboard with leaderboard logic, randomized scoring, and user tracking. | [View Code](https://github.com/husseinelmazbouh/solitaire-dashboard) |
+| **Bookstore Web App** | PHP, MySQL | Library management system featuring full CRUD operations and secure form validation. | [View Code](https://github.com/husseinelmazbouh/bookstore-web-app) |
+| **Travel Mate Design** | System Design | Full software lifecycle study project, from requirements to architectural design. | [View Code](https://github.com/husseinelmazbouh/travel-mate) |
+| **Portfolio Website** | HTML, CSS, JS | My personal portfolio showcasing my journey and projects. | [View Code](https://github.com/husseinelmazbouh/portfolio1) |
+
+---
+
+### 📊 GitHub Stats
 
 <a href="http://www.github.com/husseinelmazbouh"><img src="https://github-readme-stats.vercel.app/api?username=husseinelmazbouh&show_icons=true&hide=stars,issues,&count_private=true&title_color=6366f1&text_color=facc15&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="husseinelmazbouh's GitHub stats" /></a>
 
 <a href="https://github.com/husseinelmazbouh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husseinelmazbouh&langs_count=10&title_color=6366f1&text_color=facc15&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://husseinelmazbouh.github.io/portfolio1/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=googlechrome" alt="Portfolio" />
+  </a>
+  <a href="mailto:hussein.el.mazbouh3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/hussein-el-mazbouh-967970241" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
